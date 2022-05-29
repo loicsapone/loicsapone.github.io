@@ -3,9 +3,11 @@ DOCKER_COMP = docker-compose
 
 # Docker containers
 PHP_CONT = $(DOCKER_COMP) exec php
+NODE_CONT = $(DOCKER_COMP) exec node
 
 # Executables
 PHP = $(PHP_CONT) php
+NODE = $(NODE_CONT) node
 
 # Misc
 .DEFAULT_GOAL = help
@@ -33,6 +35,12 @@ logs: ## Show live logs
 php: ## Connect to the PHP FPM container
 	@$(PHP_CONT) sh
 
+node: ## Connect to the Node container
+	@$(NODE_CONT) sh
+
 ## —— Project 🐝 ———————————————————————————————————————————————————————————————
 serve: ## Launch Cecil server
-	@$(PHP_CONT) cecil serve --host=0.0.0.0
+	@$(PHP_CONT) cecil serve --host=0.0.0.0 --port=8000 --clear-cache
+
+watch: ## Launch assets compile
+	@$(NODE_CONT) npx tailwindcss -i ./assets/css/app.css -o ./assets/dist/css/styles.css --watch

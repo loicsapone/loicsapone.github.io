@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .w-spacing-2 {
+    word-spacing: 0.5rem;
+  }
+  .w-spacing-4 {
+    word-spacing: 1rem;
+  }
+  .w-spacing-8 {
+    word-spacing: 2rem;
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes fade-slide-right {
+  from { transform: translateX(-100px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+header h1 {
+  animation: fade-slide-right 1s ease-in-out;
+}
+header h2 {
+  animation: fade-in 2s ease-in-out;
+}
+
+.social:after {
+  content: "";
+  @apply h-24 w-1 mt-2 m-auto bg-gray-200;
+}
+
+.link {
+  @apply font-bold border-0 border-b-2 border-gray-400 hover:border-gray-600;
+}
+
+.content p {
+  @apply mb-6;
+}
