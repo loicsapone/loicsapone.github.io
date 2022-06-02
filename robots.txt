@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Sitemap: https://loicsapone.github.io/sitemap.xml
