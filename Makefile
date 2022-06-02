@@ -39,6 +39,9 @@ node: ## Connect to the Node container
 	@$(NODE_CONT) sh
 
 ## —— Project 🐝 ———————————————————————————————————————————————————————————————
+install: ## Install project
+	@$(NODE_CONT) yarn install
+
 serve: ## Launch Cecil server
 	@$(PHP_CONT) cecil serve --host=0.0.0.0 --port=8000 --clear-cache
 
