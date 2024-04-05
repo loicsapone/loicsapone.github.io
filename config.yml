@@ -1,14 +1,14 @@
 title: 'Loïc Sapone'
-baseline: 'Développeur web'
+baseline: 'Senior web developer'
 baseurl: 'https://localhost:8000/'
-description: 'Loïc Sapone, développeur web basé à Grenoble - associé chez Mezcalito, compétant en backend et devops'
+description: 'Loïc Sapone, web developer based in Grenoble - partner at Mezcalito, skilled in backend and devops.'
 author: 'Loïc Sapone'
 social:
     twitter:
         site: 'LoicSapone'
-language: fr
+language: en
 languages:
-    -   code: fr
-        name: Français
-        locale: fr_FR
+    -   code: en
+        name: English
+        locale: en_US
 image: og.png

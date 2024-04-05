@@ -1,10 +1,17 @@
-Salut, je m'appelle **Loïc Sapone** et suis développeur web depuis bientôt 10 ans à Grenoble.  
-Passionné par le **développement backend et le devops**, je réfléchis et créé des applications et sites web sur-mesure.
+Hello everyone! I'm **Loïc Sapone**, a web developer based in Grenoble for over 10 years. My expertise primarily 
+focuses on **backend development and DevOps**, where I strive to design tailor-made applications and websites that meet 
+the specific needs of my clients.  
 
-Accueilli dès mes débuts à l'agence grenobloise [Mezcalito](https://www.mezcalito.fr/){.link target=_blank rel=noopener},
-j'ai eu l'opportunité de découvrir le monde des **SCOP** et de devenir **associé** de la manufacture.
-Je travaille sur des projets institutionnels ([FC Grenoble Rugby](http://fcgrugby.com/){.link target=_blank rel=noopener})
-et e-commerce ([Location de ski Sport 2000](https://location-ski.sport2000.fr/){.link target=_blank rel=noopener}).
+I had the opportunity to kickstart my journey at [Mezcalito](https://www.mezcalito.fr/){.link target=_blank}, the 
+digital agency in Grenoble, where I discovered the world of SCOPs and eventually became an associate. During this 
+time, I contributed to diverse projects, ranging from institutional websites like 
+[FC Grenoble Rugby](http://fcgrugby.com/){.link} to specialized e-commerce platforms such as the 
+[Sport 2000 ski rental website](https://location-ski.sport2000.fr/){.link target=_blank}.    
 
-J'ai également pu mettre à profit mes compétences sur **PrestaShop** en donnant des cours aux étudiants du [DUT MMI de Grenoble](https://real-mmi-grenoble.fr/){.link target=_blank rel=noopener} pendant quatre ans.  
-L'objectif : **découvrir l'UX** des sites e-commerce, **réaliser les maquettes** d'une boutique fictive et **créer le thème** PrestaShop correspondant.
+In addition to my professional engagements, I also had the chance to teach the intricacies of **PrestaShop** to 
+students at [MMI Grenoble](https://real-mmi-grenoble.fr/){.link target=_blank} during four enriching years.  
+
+I'm also proud to have obtained the 
+[Symfony certification](https://connect.symfony.com/profile/loic_sapone){.link target=_blank}, a 
+testament to my ongoing commitment to staying at the forefront of technology in my field. Furthermore, you'll notice 
+that I'm a staunch advocate of open source, a philosophy that shines through the projects you can explore below.   
