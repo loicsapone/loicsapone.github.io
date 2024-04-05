@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/xsl/atom.xsl" media="all"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://loicsapone.github.io/</id>
   <title>Loïc Sapone</title>
-  <subtitle><![CDATA[Loïc Sapone, développeur web basé à Grenoble - associé chez Mezcalito, compétant en backend et devops]]></subtitle>
+  <subtitle><![CDATA[Loïc Sapone, web developer based in Grenoble - partner at Mezcalito, skilled in backend and devops.]]></subtitle>
   <link href="https://loicsapone.github.io/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://loicsapone.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-11-11T11:35:59+00:00</updated>
+  <updated>2024-04-05T17:05:23+00:00</updated>
   <author>
     <name>Loïc Sapone</name>
     <uri>https://loicsapone.github.io/</uri>
